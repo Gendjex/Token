@@ -1,0 +1,43 @@
+{
+  "name": "Token",
+  "version": "1.0.0",
+  "description": "LINE",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "npm run vipro && npm run vipro1 && npm run vipro2 && npm run vipro3 && npm run vipro4 && npm run vipro5",
+    "vipro": "node ./src/vipro.js",
+    "vipro1": "node ./src/vipro1.js",
+    "vipro2": "node ./src/vipro2.js",
+    "vipro3": "node ./src/vipro3.js",
+    "vipro4": "node ./src/vipro4.js",
+    "vipro5": "node ./src/vipro5.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gendjex/Token"
+  },
+  "author": "Vipro",
+  "license": "MIT",
+  "devDependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "node-bignumber": "^1.2.1",
+    "utf8": "^2.1.1"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "thrift": "^0.10.0",
+    "thrift-http": "^1.0.1",
+    "unirest": "^0.5.0",
+    "request": "^2.0.0",
+    "request-promise": "^2.0.0",
+    "webp-converter": "^2.1.6",
+    "moment": "^2.18.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Gendjex/Token/issues"
+  },
+  "homepage": "https://github.com/Gendjex/Token#README",
+  "keywords": [
+    "line"
+  ]
+}

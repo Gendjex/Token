@@ -1,7 +1,7 @@
 # Alphat
 Bot Token v.1.0.0
 ------
--Header
+Header :
 ------
 - `UA = CHROMEOS\t1.4.17\tChrome_OS\t1`
 - `LA = Line/1.4.17`

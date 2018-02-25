@@ -43,7 +43,7 @@ Cara Menjalankan Bot Kembali :
 Thx To :
 ------
 - `Alfatdirk`
-
+- `Nadyatjia`
 
 
 

@@ -1,6 +1,8 @@
 # Alphat
 Bot Token v.1.0.0
 ------
+"Login 6 Akun Line"
+------
 Header :
 ------
 - `UA = CHROMEOS\t1.4.17\tChrome_OS\t1`

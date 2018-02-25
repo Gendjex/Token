@@ -14,6 +14,8 @@ Cara Install Bot Token Di Termux :
 - `pkg install nano`
 - `cd AlphatTJ`
 - `npm install`
+- `npm i`
+- `npm i -g npm (jika update)`
 - `npm start`
 
 Cara Install Bot Token Di C9/Server:
